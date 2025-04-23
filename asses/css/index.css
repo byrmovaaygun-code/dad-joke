@@ -1,0 +1,28 @@
+.screen{
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+}
+.joke{
+    width: 60%;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.joke h1{
+    text-align: center;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+   position: absolute;
+   left: 40%;
+   bottom: 10px;
+}
+ .random{
+    font-size: 40px;
+    text-align: center;
+ }
